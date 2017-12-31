@@ -1,6 +1,6 @@
 # Tech Stack
 
-A list of technologies and information about them using React Native and Redux.
+A list of technologies and information about.
 
 ## Project
 
